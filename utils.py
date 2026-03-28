@@ -58,7 +58,7 @@ import os
 def get_local_ip():
     #if os.getenv("STREAMLIT_SERVER_HEADLESS"):
         # Running on Streamlit Cloud
-    return "https://raj-photographyy.streamlit.app"
+    return "https://face-fatch.streamlit.app"
     #else:
         # Running locally
         #return "http://localhost:8501"
