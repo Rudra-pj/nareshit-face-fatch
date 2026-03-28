@@ -12,7 +12,7 @@ import shutil
 import pandas as pd
 
 # --- Page Configuration (Must be first Streamlit command) ---
-st.set_page_config(page_title="Raj-photography", page_icon="📸", layout="wide")
+st.set_page_config(page_title="Face-fatch", page_icon="📸", layout="wide")
 
 try:
     from streamlit_autorefresh import st_autorefresh
