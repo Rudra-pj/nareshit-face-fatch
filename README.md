@@ -20,3 +20,4 @@ This platform is an enterprise-grade media delivery solution designed for profes
 - **QR Codes**: qrcode library
 
 
+- for admin login password(face-fatch@123)
