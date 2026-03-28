@@ -19,23 +19,4 @@ This platform is an enterprise-grade media delivery solution designed for profes
 - **Video Processing**: MoviePy (v2.x)
 - **QR Codes**: qrcode library
 
-## ⚙️ Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rudra0133/PixelStream-OS.git
-   cd PixelStream-OS
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
-   ```bash
-   python -m streamlit run app.py
-   ```
-
-## 📝 License
-Copyright © 2026 Face fatch. All rights reserved.
